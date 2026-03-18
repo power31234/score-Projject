@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+    background-color: #1B244A;
+
+}
+
+.container {
+    text-align: center;
+    display: block;
+    
+    
+}
+.teamsNa{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana;
+    color: aliceblue;
+    font-size: 40px;
+    
+}
+.left-t{
+    margin-left:20px;
+    margin-right: 43px;
+}
+.right-t{
+    
+    
+    
+}
+.score{
+    display: flex  ;   
+    justify-content: center;
+    font-family: 'cursed';
+    font-size: 100px;
+    color: #F94F6D;
+    
+   
+}
+#team-1{
+    padding: 50px;
+    background-color: black;
+}
+#team-2{
+    padding: 50px;
+    background-color: black;
+    margin-left:40px ;
+}
+button{
+    color: #9AABD8;
+    padding: 14px;
+    margin: 3px;
+    background-color: #1B244A;
+    border-width: 1px;
+    border-color: #9AABD8;
+    
+}
+.teams-btns{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;   
+    
+    
+    }
+.btn3{
+    margin-left: 43px;
+}   
+@font-face {
+    font-family: 'cursed';
+    src: url('CursedTimerUlil-Aznm.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
